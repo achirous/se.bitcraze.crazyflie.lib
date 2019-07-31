@@ -7,9 +7,6 @@ Therefore this library is heavily based on the Python implementation.
 Some components are almost identical, some differ more to accommodate different
 programming concepts in Python and Java.
 
-Over time the Java library will be adapted to make use of Java specific
-features like Lambda expressions, etc.
-
 This library should make it easy to implement Java based clients for the
 Crazyflie, for example on Android or as a Eclipse RCP application.
 
